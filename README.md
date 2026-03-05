@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Cloud Security Engineer | Machine Learning | Data Analytics | 5+ Years in IT Operations |CCNA Certified**
+**Cloud Security Engineer | Machine Learning | Data Analytics |CCNA Certified | 5+ Years in IT Operations**
 
 </div>
 
