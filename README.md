@@ -14,17 +14,27 @@ Cybersecurity specialist with 5+ years of IT operations experience and advanced 
 
 **Core Expertise:**
 - Artificial Intelligence & Machine Learning
-- Secure Application Development
-- Cryptographic Implementations
 - Cybersecurity & Network Security
+- Cryptographic Implementations
+- Secure Application Development
 - IT Operations & System Administration
 
+## Featured Projects
 
-**Current Focus:**
-- Advanced AI/ML applications for cybersecurity
-- Secure authentication systems and encryption protocols
-- Enterprise network security architecture
-- Integrating AI solutions into existing IT infrastructure
+### [Lockarithm](https://github.com/Nirali4/FinalProject) - Secure Password Manager
+A production-ready password management system implementing military-grade encryption with Fernet cipher and PBKDF2-HMAC key derivation (390,000 iterations). Features PIN-based authentication, per-password salting, and versioned encryption format for security upgrades.
+
+`Python` `Django` `Cryptography` `PBKDF2-HMAC` `Fernet` `SQLite`
+
+### [FeedPlus](https://github.com/Nirali4/FeedPlus) - Feedback Analysis Platform
+Intelligent feedback analysis system for e-commerce platforms, delivering actionable business insights through advanced data visualization and analysis techniques.
+
+`Python` `Data Analysis` `Visualization`
+
+### [Networking Projects](https://github.com/Nirali4/Networking_Projects) - Enterprise Network Solutions
+Comprehensive collection of enterprise-level network designs featuring VPN implementations, advanced access control lists, DHCP server configurations, and complex multi-site network topologies.
+
+`Cisco IOS` `Network Security` `VPN` `DHCP` `Access Lists`
 
 ## Technical Skills
 
@@ -57,23 +67,6 @@ Cybersecurity specialist with 5+ years of IT operations experience and advanced 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirali4&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
 </div>
-
-## Featured Projects
-
-### [Lockarithm](https://github.com/Nirali4/FinalProject) - Secure Password Manager
-A production-ready password management system implementing military-grade encryption with Fernet cipher and PBKDF2-HMAC key derivation (390,000 iterations). Features PIN-based authentication, per-password salting, and versioned encryption format for security upgrades.
-
-`Python` `Django` `Cryptography` `PBKDF2-HMAC` `Fernet` `SQLite`
-
-### [FeedPlus](https://github.com/Nirali4/FeedPlus) - Feedback Analysis Platform
-Intelligent feedback analysis system for e-commerce platforms, delivering actionable business insights through advanced data visualization and analysis techniques.
-
-`Python` `Data Analysis` `Visualization`
-
-### [Networking Projects](https://github.com/Nirali4/Networking_Projects) - Enterprise Network Solutions
-Comprehensive collection of enterprise-level network designs featuring VPN implementations, advanced access control lists, DHCP server configurations, and complex multi-site network topologies.
-
-`Cisco IOS` `Network Security` `VPN` `DHCP` `Access Lists`
 
 ## Connect
 
