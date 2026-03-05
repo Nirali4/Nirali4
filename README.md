@@ -58,12 +58,6 @@ Comprehensive collection of enterprise-level network designs featuring VPN imple
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirali4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirali4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirali4&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
 </div>
