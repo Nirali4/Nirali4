@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Cybersecurity & AI Specialist | 5+ Years IT Operations Experience| CCNA Certified**
+**Cloud Security Engineer | Machine Learning | Data Analytics | 5+ Years in IT Operations |CCNA Certified**
 
 </div>
 
@@ -10,14 +10,15 @@
 
 ## About Me
 
-Cybersecurity specialist with 5+ years of IT operations experience and advanced expertise in AI/ML technologies. Post-certified in Cybersecurity and AI with Machine Learning. My background spans enterprise network security, system administration, IT project management, and emerging AI-driven security solutions.
+Cloud security engineer and cybersecurity specialist with 5+ years of IT operations experience. Advanced expertise in AI/ML technologies, incident response, and threat intelligence. Post-certified in Cybersecurity and AI with specialization in Machine Learning. My background spans enterprise network security, cloud infrastructure, system administration, and AI-driven security solutions.
 
 **Core Expertise:**
-- Artificial Intelligence & Machine Learning
-- Cybersecurity & Network Security
-- Cryptographic Implementations
-- Secure Application Development
-- IT Operations & System Administration
+- Cloud Security (AWS & Azure)
+- Incident Response & Threat Intelligence
+- Machine Learning & Data Analytics
+- Network Security (CCNA Certified)
+- System Administration & Infrastructure Management
+- Active Directory & Identity Management
 
 ## Featured Projects
 
@@ -38,24 +39,21 @@ Comprehensive collection of enterprise-level network designs featuring VPN imple
 
 ## Technical Skills
 
+**Cloud & Security Platforms**
+
+`AWS` `Azure` `Splunk` `Active Directory` `Cisco`
+
 **AI & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+`Python` `Pandas` `NumPy` `Machine Learning` `SQL` `Data Analytics`
 
-**Security & Networking**
+**Security & Networking Tools**
 
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`Wireshark` `Kali Linux` `Linux` `Windows Server` `PowerShell` `Vulnerability Management`
 
-**Tools & Platforms**
+**Development & Tools**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`Django` `Git` `JavaScript`
 
 ## 📊 GitHub Stats
 <div align="center">
