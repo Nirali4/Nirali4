@@ -1,6 +1,6 @@
 # Nirali Chaudhari
 
-<div align="center">
+<div align="left">
   
 **Cloud Security Engineer | Machine Learning | Data Analytics |CCNA Certified | 5+ Years in IT Operations**
 
