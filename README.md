@@ -2,7 +2,7 @@
 
 <div align="left">
   
-**Cloud Security Engineer | Machine Learning | Data Analytics |CCNA Certified | 5+ Years in IT Operations**
+**Machine Learning & Cloud Security Engineer | Specializing in Adversarial ML Defense, Secure Agentic Workflows, & Hardened DevSecOps |CCNA Certified | 5+ Years in IT Operations**
 
 </div>
 
@@ -13,14 +13,15 @@
 Cloud security engineer and cybersecurity specialist with 5+ years of IT operations experience. Advanced expertise in AI/ML technologies, incident response, and threat intelligence. Post-certified in Cybersecurity and AI with specialization in Machine Learning. My background spans enterprise network security, cloud infrastructure, system administration, and AI-driven security solutions.
 
 **Core Expertise:**
-- Cloud Security (AWS & Azure)
-- Incident Response & Threat Intelligence
-- Machine Learning & Data Analytics
-- Network Security (CCNA Certified)
-- System Administration & Infrastructure Management
-- Active Directory & Identity Management
+* **Adversarial ML & Agentic Security:** Prompt injection mitigation, robust prompt engineering safety boundaries, secure Document Object Model (DOM) parsing pipelines, and runtime privilege isolation for autonomous agents
+* **Cloud Security & DevSecOps:** Hardened cloud infrastructure orchestration across AWS (Lambda, S3, IAM, Amazon Comprehend) and Azure; automated vulnerability scanning; least-privilege policy compilation.
+* **Data Science & ML Pipeline Engineering:** Tokenization, semantic text classification, structural pattern mining, feature representation mapping, and statistical anomaly evaluation using Python (Pandas, NumPy).
+* **Enterprise Systems & Networking:** Cisco IOS infrastructure deployment (CCNA Certified), secure site-to-site IPsec VPN design, network telemetric filtering via Access Control Lists (ACLs), and packet analysis via Wireshark.
 
 ## Featured Projects
+
+### [Secure Career Ops Plugin](https://github.com/Nirali4/secure-career-ops-plugin) - AI-Powered Job Search System (Enterprise Hardened)
+A security-focused, cost-optimized fork of the career-ops AI plugin. Features enterprise-grade URL fetch validation, aggressive API token optimization (50-80% reduction), anti-hallucination guardrails, PII leak prevention, and native zero-token audit logging.
 
 ### [Lockarithm](https://github.com/Nirali4/FinalProject) - Secure Password Manager
 A production-ready password management system implementing military-grade encryption with Fernet cipher and PBKDF2-HMAC key derivation (390,000 iterations). Features PIN-based authentication, per-password salting, and versioned encryption format for security upgrades.
