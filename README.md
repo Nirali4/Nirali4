@@ -42,23 +42,24 @@ Comprehensive collection of enterprise-level network designs featuring VPN imple
 
 **Cloud & Security Platforms**
 
-`AWS` `Azure` `Splunk` `Active Directory` `Cisco`
+`AWS` `Azure` `DevSecOps` `Splunk` `Active Directory` `Cisco` `IAM`
 
 **AI & Data**
 
-`Python` `Pandas` `NumPy` `Machine Learning` `SQL` `Data Analytics`
+`Python` `Pandas` `NumPy` `Machine Learning` `MLOps` `NLP` `SQL` `Data Analytics` `LLMs`
 
 **Security & Networking Tools**
 
-`Wireshark` `Kali Linux` `Linux` `Windows Server` `PowerShell` `Vulnerability Management`
+`Wireshark` `Kali Linux` `Linux` `Windows Server` `PowerShell` `Vulnerability Management` `Incident Response` `VPN`
 
 **Development & Tools**
 
-`Django` `Git` `JavaScript`
+`Django` `Git` `JavaScript` `CI/CD` `SQLite` `Cryptography`
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirali4&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
+  <img src="https://streak-stats.demolab.com/?user=Nirali4&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirali4&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="400">
 </div>
 
 ## Connect
