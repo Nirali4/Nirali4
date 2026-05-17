@@ -59,7 +59,6 @@ Comprehensive collection of enterprise-level network designs featuring VPN imple
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Nirali4&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirali4&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="400">
 </div>
 
 ## Connect
