@@ -2,7 +2,7 @@
 
 <div align="left">
   
-**Machine Learning & Cloud Security Engineer | Specializing in Adversarial ML Defense, Secure Agentic Workflows, & Hardened DevSecOps |CCNA Certified | 5+ Years in IT Operations**
+**ML Security & DevSecOps Engineer | Cloud Security | CCNA Certified | 5+ Years in IT Operations**
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ## About Me
 
-Cloud security engineer and cybersecurity specialist with 5+ years of IT operations experience. Advanced expertise in AI/ML technologies, incident response, and threat intelligence. Post-certified in Cybersecurity and AI with specialization in Machine Learning. My background spans enterprise network security, cloud infrastructure, system administration, and AI-driven security solutions.
+AI security engineer with over 5 years of experience in enterprise IT operations. Advanced expertise in AI/ML technologies, incident response, and threat intelligence. My background spans enterprise network security, cloud infrastructure, system administration, and AI-driven security solutions.
 
 **Core Expertise:**
-* **Adversarial ML & Agentic Security:** Prompt injection mitigation, robust prompt engineering safety boundaries, secure Document Object Model (DOM) parsing pipelines, and runtime privilege isolation for autonomous agents
-* **Cloud Security & DevSecOps:** Hardened cloud infrastructure orchestration across AWS (Lambda, S3, IAM, Amazon Comprehend) and Azure; automated vulnerability scanning; least-privilege policy compilation.
-* **Data Science & ML Pipeline Engineering:** Tokenization, semantic text classification, structural pattern mining, feature representation mapping, and statistical anomaly evaluation using Python (Pandas, NumPy).
-* **Enterprise Systems & Networking:** Cisco IOS infrastructure deployment (CCNA Certified), secure site-to-site IPsec VPN design, network telemetric filtering via Access Control Lists (ACLs), and packet analysis via Wireshark.
+- **AI/ML Security:** Adversarial ML defense, prompt injection mitigation, and securing autonomous AI agents.
+- **Cloud & DevSecOps:** AWS/Azure security, infrastructure automation, and continuous vulnerability scanning.
+- **Data Science & MLOps:** Python (Pandas/NumPy), CI/CD, data pipelines, anomaly detection, NLP, NL2SQL, and text/image classification.
+- **Enterprise Networking:** CCNA Certified, secure VPN design, system administration, and network defence.
 
 ## Featured Projects
 
